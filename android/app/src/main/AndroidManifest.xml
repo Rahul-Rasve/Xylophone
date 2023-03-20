@@ -2,7 +2,7 @@
     package="com.rahul.xylophone">
    <application
        android:usesCleartextTraffic = "true"
-        android:label="xylophone"
+        android:label="Xylophone"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
